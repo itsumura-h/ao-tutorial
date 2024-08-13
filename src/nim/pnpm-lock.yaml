@@ -1,0 +1,23 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    devDependencies:
+      '@permaweb/ao-loader':
+        specifier: ^0.0.35
+        version: 0.0.35
+
+packages:
+
+  '@permaweb/ao-loader@0.0.35':
+    resolution: {integrity: sha512-vgDs2PYJqiKYnEVHYccP5VOjc+YkcinYW8YQa53fxYzy4D/KEWwiMnocz3zNb7L+6dKNT6EghHft7xMcs01WMQ==}
+    engines: {node: '>=18'}
+
+snapshots:
+
+  '@permaweb/ao-loader@0.0.35': {}

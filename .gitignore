@@ -1,0 +1,5 @@
+*.wasm
+*.wat
+node_modules
+.pnpm-store
+nimcache

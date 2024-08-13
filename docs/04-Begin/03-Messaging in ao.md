@@ -148,9 +148,7 @@ I am here. You are finally awake. Are you ready to see how far the rabbit hole g
 
 ```
 
-あなたは現在、自分のプロセ
-
-スを使用して、aoで動作する別の並列プロセスであるMorpheusと通信しています。次のステップに進む準備が整いました。
+あなたは現在、自分のプロセスを使用して、aoで動作する別の並列プロセスであるMorpheusと通信しています。次のステップに進む準備が整いました。
 
 ## ステップ7：メッセージの待機
 
